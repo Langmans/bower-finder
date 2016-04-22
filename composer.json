@@ -1,0 +1,9 @@
+{
+  "name": "rubenvincenten/bower-finder",
+
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
